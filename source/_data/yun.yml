@@ -1,0 +1,37 @@
+# Social Links.
+social:
+  - name: E-Mail
+    link: mailto:kaichengyu@qq.com
+    icon: icon-mail-line
+    color: "#8E71C1"
+  - name: GitHub
+    link: https://github.com/Onetopabove
+    icon: icon-github-line
+    color: "#6e5494"
+
+# Sidebar Avatar
+avatar:
+  enable: true
+  url: https://i.loli.net/2021/03/02/us5V7v9fDtF4ghK.jpg
+  # If true, the avatar would be dispalyed in circle.
+  rounded: true
+  # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: false
+    emoji: 😊
+    message: 永远相信美好的事情即将发生！
+
+# UI
+banner:
+  enable: true
+  title: 凌绝一顶的小站
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
